@@ -1,0 +1,17 @@
+body .main {
+	background-color: #c3cde6;
+}
+
+.main .jumbotron {
+	background-color: #8a2be2;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
